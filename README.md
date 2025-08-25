@@ -1,1 +1,1 @@
-# myfirstrepo
+# my/first/repo
